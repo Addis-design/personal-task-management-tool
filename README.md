@@ -1,5 +1,9 @@
-# Personal Task Management Tool
+
+https://github.com/user-attachments/assets/360c3fe4-d3eb-4399-a0e8-7cf48ab6920f
+![form](https://github.com/user-attachments/assets/fcc2fa22-adf4-4337-97f2-f1d9909bbe86)# Personal Task Management Tool
 This is a simple personal task management tool that allows users to manage daily tasks, prioritize them, and mark them as complete. Each task has a title, description, priority level (high, medium, low), and a due date.
+![Add task form](https://github.com/user-attachments/assets/a113a195-e7cf-4ac7-8e9c-06a3aff6ae1f)
+
 ## Features
 The web app has the following features
 - Create new tasks with title, description, priority, and due date
@@ -7,6 +11,9 @@ The web app has the following features
 - Edit existing tasks
 - Delete tasks
 - Mark tasks as complete
+
+![form](https://github.com/user-attachments/assets/a06f9754-c353-4fea-ab5c-4cf2fed0e754)
+
 ## Technology Stack
 - Frontend: React.js
 - Backend: Node.js with Express.js
@@ -69,6 +76,9 @@ The frontend application should now be running on `http://localhost:3000`.
 5.	Use the delete button to remove a task
 6.	Use the checkbox to mark a task as complete
 7.	Navigate to the task page to view the added tasks
+
+https://github.com/user-attachments/assets/8e33f492-e5fc-4091-9977-913b38fa3c2b
+
 ## API Endpoints
 - `POST /tasks`: Create a new task
 - `GET /tasks`: Retrieve all tasks
